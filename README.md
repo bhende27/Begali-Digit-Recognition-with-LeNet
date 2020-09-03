@@ -1,1 +1,1 @@
-# Begali-Digit-Recognition-with-LeNet
+# Bengali-Digit-Recognition-with-LeNet
